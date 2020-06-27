@@ -1,2 +1,2 @@
-body{background:#2A2731;border-radius:10px;margin:0}
+body{background:#2A2731;border-radius:10px;margin:0}header{max-width:802px;display:flex;justify-content:space-between;background-color:black;padding:12px 24px}#top-menu{margin-top:16px;margin-right:28px}a{text-decoration:none;color:#F2F2F2}#top-menu a:hover{background:blue;border-radius:99px}.inbox{width:90px;height:40px}.fligts{width:114px;height:40px}.todo{width:94px;height:40px}.meeting{width:98px;height:40px}.settings{width:112px;height:40px}
 /*# sourceMappingURL=style.css.map */
